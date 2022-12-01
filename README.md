@@ -1,6 +1,7 @@
 Readme file about the usage of the metadata.csv file of the Soybean Seedlings Dataset.
 
 If you are using for academic purpose, please cite:
+
 Bruno C. Nascimento, Marcos H. F. Ribeiro, Laércio J. Silva, Nayara Capobiango, Michel M. S. A soybean seedlings dataset for soil condition and genotype classification. 35th SIBGRAPI Conference on Graphics, Patterns and Images, 2022.
 
 The metadata file contains the genotype and soil condition of each soybean seedling image and the division performed for training, validation and testing. They are presented as a file of values separated by two points (CSV) using a semicolon (';' ) as delimiter and with a number of lines equal to the number of soybean seedlings images plus a header identifying each column.
